@@ -1,0 +1,6 @@
+1.克隆项目
+git clone https://github.com/PaperSheep/gogogo.git
+2.查看状态
+git status
+3.把编辑区的内容放进寄存区
+git add .
